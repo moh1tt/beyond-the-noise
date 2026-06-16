@@ -22,10 +22,10 @@ For this to work: the World Cup needs to translate into measurable revenue/volum
 
 | Ticker | Role in Thesis | Status | Shares (Core Book) | Avg Cost | Current | P&L % | Rating |
 |---|---|---|---|---|---|---|---|
-| [BUD](../tickers/BUD.md) | FIFA World Cup sponsor (partnership through 2030); test case is whether tournament visibility shows up in Q3 numbers | Held | 3.000000 | $80.39 | $82.885 | +3.1% | Accumulate |
-| [DKNG](../tickers/DKNG.md) | Direct beneficiary of World Cup betting handle surge, currently underway | Watching (Tactical Sleeve candidate) | — | — | $28.99 | — | Watch |
+| [BUD](../tickers/BUD.md) | FIFA World Cup sponsor (partnership through 2030); test case is whether tournament visibility shows up in Q3 numbers | Held | 3.000000 | $80.39 | $81.48 | +1.4% | Accumulate |
+| [DKNG](../tickers/DKNG.md) | Direct beneficiary of World Cup betting handle surge, currently underway | Watching (Tactical Sleeve — paused, see tactical-book.md) | — | — | $28.80 | — | Watch |
 
-*(Data as of 2026-06-12 close.)*
+*(Data as of 2026-06-15 close.)*
 
 ## Risks
 

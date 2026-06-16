@@ -1,14 +1,14 @@
 # Core Book — Account ••••8652
 
-**Last updated:** 2026-06-14 | **Data as of:** 2026-06-12 (Friday close; markets closed for the weekend)
+**Last updated:** 2026-06-16 | **Data as of:** 2026-06-15 (Monday close)
 **Mode:** Recommend-only. Claude does not place trades on this account — the user executes manually in the Robinhood app and reports fills back for logging.
 
 ## Account Totals (per Robinhood, `get_portfolio`)
 
 | | |
 |---|---|
-| Total account value | $4,025.34 |
-| Equity value | $4,016.10 |
+| Total account value | $4,148.72 |
+| Equity value | $4,139.48 |
 | Cash | $9.24 |
 | Buying power | $9.24 |
 
@@ -16,19 +16,19 @@
 
 | Symbol | Shares | Avg Cost | Current Price | Market Value | Unrealized P&L | P&L % | Thesis | Rating |
 |---|---|---|---|---|---|---|---|---|
-| SOFI | 38.323546 | $25.94 | $16.585 | $635.65 | -$355.71 | -34.7% | Unassigned | Hold — under review |
-| POWL | 3.000000 | $313.80 | $294.74 | $884.22 | -$57.18 | -6.1% | [AI Infrastructure Buildout](../theses/ai-infrastructure-buildout.md) | Hold |
-| WMT | 4.000000 | $115.12 | $121.00 | $484.00 | +$23.52 | +5.1% | Unassigned | Hold |
-| LIN | 1.000000 | $513.52 | $523.53 | $523.53 | +$10.01 | +1.9% | Unassigned (AI-adjacent) | Hold |
-| ENTG | 3.000000 | $147.91 | $150.46 | $451.38 | +$7.65 | +1.7% | [AI Infrastructure Buildout](../theses/ai-infrastructure-buildout.md) | Hold |
-| GLW | 2.002839 | $204.79 | $179.3815 | $359.18 | -$51.02 | -12.4% | [AI Infrastructure Buildout](../theses/ai-infrastructure-buildout.md) | Hold |
-| BUD | 3.000000 | $80.39 | $82.885 | $248.66 | +$7.49 | +3.1% | [Consumer Events 2026](../theses/consumer-events-2026.md) | Accumulate |
-| CEG | 1.001570 | $295.40 | $253.76 | $254.16 | -$41.65 | -14.1% | [AI Infrastructure Buildout](../theses/ai-infrastructure-buildout.md) | Accumulate |
-| ICHR | 2.000000 | $70.00 | $86.87 | $173.74 | +$33.74 | +24.1% | [AI Infrastructure Buildout](../theses/ai-infrastructure-buildout.md) | Hold (consider trim) |
+| SOFI | 38.323546 | $25.94 | $17.13 | $656.48 | -$337.59 | -34.0% | Unassigned | Hold — under review |
+| POWL | 3.000000 | $313.80 | $303.53 | $910.59 | -$30.81 | -3.3% | [AI Infrastructure Buildout](../theses/ai-infrastructure-buildout.md) | Hold |
+| WMT | 4.000000 | $115.12 | $120.82 | $483.28 | +$22.80 | +4.9% | Unassigned | Hold |
+| LIN | 1.000000 | $513.52 | $521.48 | $521.48 | +$7.96 | +1.5% | Unassigned (AI-adjacent) | Hold |
+| ENTG | 3.000000 | $147.91 | $162.89 | $488.67 | +$44.94 | +10.1% | [AI Infrastructure Buildout](../theses/ai-infrastructure-buildout.md) | Hold |
+| GLW | 2.002839 | $204.79 | $187.88 | $376.29 | -$33.87 | -8.3% | [AI Infrastructure Buildout](../theses/ai-infrastructure-buildout.md) | Hold |
+| BUD | 3.000000 | $80.39 | $81.48 | $244.44 | +$3.27 | +1.4% | [Consumer Events 2026](../theses/consumer-events-2026.md) | Accumulate |
+| CEG | 1.001570 | $295.40 | $262.35 | $262.76 | -$33.10 | -11.1% | [AI Infrastructure Buildout](../theses/ai-infrastructure-buildout.md) | Accumulate |
+| ICHR | 2.000000 | $70.00 | $89.47 | $178.94 | +$38.94 | +27.8% | [AI Infrastructure Buildout](../theses/ai-infrastructure-buildout.md) | Hold (consider trim) |
 
-**Totals (computed from this session's quotes):** Cost basis ≈ $4,440.83 | Market value ≈ $4,014.52 | Unrealized P&L ≈ -$426.31 (-9.6%)
+**Totals (computed from this session's quotes):** Cost basis ≈ $4,440.13 | Market value ≈ $4,122.93 | Unrealized P&L ≈ -$317.20 (-7.1%)
 
-*Small discrepancy vs. the Robinhood-reported equity value ($4,016.10) is timing/extended-hours pricing, not a data error.*
+*Robinhood-reported equity ($4,139.48) vs. computed ($4,122.93): ~$16.55 gap is timing/pricing source difference, not a data error. Robinhood value is authoritative for account-level totals.*
 
 ## Unassigned Positions — Need a Thesis or an Exit Decision
 

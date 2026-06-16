@@ -22,13 +22,13 @@ For this to keep working: fab capex and hyperscaler datacenter spend need to kee
 
 | Ticker | Role in Thesis | Status | Shares (Core Book) | Avg Cost | Current | P&L % | Rating |
 |---|---|---|---|---|---|---|---|
-| [ENTG](../tickers/ENTG.md) | Semiconductor materials/contamination control — direct fab-capex play, capex cycle largely behind it (operating leverage ahead) | Held | 3.000000 | $147.91 | $150.46 | +1.7% | Hold |
-| [ICHR](../tickers/ICHR.md) | Fluid-delivery subsystems for WFE OEMs (Lam, Applied) — pure-play leverage to the wafer-fab-equipment upcycle | Held | 2.000000 | $70.00 | $86.87 | +24.1% | Hold (consider trim) |
-| [POWL](../tickers/POWL.md) | Electrical switchgear/distribution for datacenters & utilities — direct beneficiary of datacenter electrification | Held | 3.000000 | $313.80 | $294.74 | -6.1% | Hold |
-| [GLW](../tickers/GLW.md) | Optical fiber & connectivity for AI datacenter networking | Held | 2.002839 | $204.79 | $179.3815 | -12.4% | Hold |
-| [CEG](../tickers/CEG.md) | Nuclear baseload power, increasingly contracted directly to AI datacenter operators | Held | 1.001570 | $295.40 | $253.76 | -14.1% | Accumulate |
+| [ENTG](../tickers/ENTG.md) | Semiconductor materials/contamination control — direct fab-capex play, capex cycle largely behind it (operating leverage ahead) | Held | 3.000000 | $147.91 | $162.89 | +10.1% | Hold |
+| [ICHR](../tickers/ICHR.md) | Fluid-delivery subsystems for WFE OEMs (Lam, Applied) — pure-play leverage to the wafer-fab-equipment upcycle | Held | 2.000000 | $70.00 | $89.47 | +27.8% | Hold (consider trim) |
+| [POWL](../tickers/POWL.md) | Electrical switchgear/distribution for datacenters & utilities — direct beneficiary of datacenter electrification | Held | 3.000000 | $313.80 | $303.53 | -3.3% | Hold |
+| [GLW](../tickers/GLW.md) | Optical fiber & connectivity for AI datacenter networking | Held | 2.002839 | $204.79 | $187.88 | -8.3% | Hold |
+| [CEG](../tickers/CEG.md) | Nuclear baseload power, increasingly contracted directly to AI datacenter operators | Held | 1.001570 | $295.40 | $262.35 | -11.1% | Accumulate |
 
-*(Data as of 2026-06-12 close.)*
+*(Data as of 2026-06-15 close.)*
 
 ## Risks
 

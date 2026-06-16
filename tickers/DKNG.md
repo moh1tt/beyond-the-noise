@@ -21,6 +21,7 @@
 - Q1 2026 (reported 2026-05-07): revenue $1,646M (+17% YoY, +$237M), EPS $0.20 vs. $0.17 est. (beat) — driven by efficient customer acquisition and higher Sportsbook net revenue margin.
 - FY2026 guidance maintained: revenue $6.5–6.9B, adjusted EBITDA $700–900M.
 - **2026 FIFA World Cup betting projections** (Eilers & Krejcik Gaming via SportsHandle, 2026-06 — **estimates, not realized data**): US sportsbook handle for the tournament ~$2.82B base case, up to $4.3–4.4B high end. DKNG specifically estimated to capture ~$1.1B; DKNG + FanDuel projected at ~70% combined US share during the tournament. Globally, $50–60B projected wagered vs. ~$35B in 2022 (CNBC, 2026-06-10).
+- **Analyst reinforcement since kickoff** (week of 2026-06-08–12): sell-side commentary named DKNG the "clearest winner" in sports betting for the World Cup window, with BofA (using Paysafe data) flagging that ~1 in 5 legal-state bettors plan to place their first-ever sports wager during the tournament — framed as a major customer-acquisition opportunity, not just a handle spike. DKNG running 2,000+ markets per match (~half live) plus a new Spanish-language app tied to its Telemundo partnership. Stock still pulled back ~3.4% on 2026-06-12 ($30.02→$28.99) despite the bullish framing — no negative catalyst identified, looks like normal noise/profit-taking, but worth noting as a slightly better entry if/when the trade is confirmed.
 
 ## Rating
 
