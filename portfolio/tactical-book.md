@@ -1,21 +1,21 @@
 # Tactical Sleeve — Account ••••3551 ("Agentic")
 
-**Last updated:** 2026-06-16 | **Data as of:** 2026-06-16 (pre-market)
+**Last updated:** 2026-06-17 | **Data as of:** 2026-06-16 (Tuesday close)
 **Mode:** Semi-automated. Claude may draft and, with explicit confirmation each time, place trades on this account. See `CLAUDE.md` → Trade Workflow and Position Sizing rules.
 
-## ⚠️ Account Alert — Unexpected Options Position
+## ⚠️ Account Alert — Options Position Eroding Fast
 
-Robinhood `get_portfolio` shows the account is NO LONGER 100% cash. As of 2026-06-16:
+Robinhood `get_portfolio` as of 2026-06-17 morning:
 
 | | |
 |---|---|
-| Total account value | $75.96 |
+| Total account value | $53.96 |
 | Equity value | $0.00 |
-| **Options value** | **$75.00** |
+| **Options value** | **$53.00** |
 | Cash | $0.96 |
 | Buying power | $0.96 |
 
-**CLAUDE.md rule: "No margin, no options in the tactical sleeve for now."** This is inconsistent with that rule. No equity orders appear in the order history for this account. The options position and its cost/origin are unknown via available MCP tools — user must check the Robinhood app directly to identify what option(s) are held, when they were placed, and whether any action is needed (the position is worth $75 vs. an implied ~$24 cost if the account started at $100 and $0.96 remains).
+**The options position has lost $22 in value in one day** (from $75 yesterday to $53 today — -29.3%). Total account value is down from the original $100 to $53.96 (-46%). **CLAUDE.md rule: "No margin, no options in the tactical sleeve for now."** This position is inconsistent with that rule. User must check the Robinhood app directly to identify what option(s) are held, expiration date, and whether to close or let expire. Time-sensitive — if this is a short-dated option, it may go to zero quickly.
 
 *Candidates under review and DKNG trade discussion are paused until the options situation is clarified.*
 
