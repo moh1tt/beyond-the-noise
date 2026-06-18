@@ -22,10 +22,10 @@ For this to work: the World Cup needs to translate into measurable revenue/volum
 
 | Ticker | Role in Thesis | Status | Shares (Core Book) | Avg Cost | Current | P&L % | Rating |
 |---|---|---|---|---|---|---|---|
-| [BUD](../tickers/BUD.md) | FIFA World Cup sponsor (partnership through 2030); test case is whether tournament visibility shows up in Q3 numbers | Held | 3.000000 | $80.39 | $81.48 | +1.4% | Accumulate |
-| [DKNG](../tickers/DKNG.md) | Direct beneficiary of World Cup betting handle surge, currently underway | Watching (Tactical Sleeve — paused, see tactical-book.md) | — | — | $28.80 | — | Watch |
+| [BUD](../tickers/BUD.md) | FIFA World Cup sponsor (partnership through 2030); test case is whether tournament visibility shows up in Q3 numbers | **Sold 2026-06-17** | — | $80.39 | $81.105 (fill) | +0.89% realized | — |
+| [DKNG](../tickers/DKNG.md) | Direct beneficiary of World Cup betting handle surge, currently underway | Watching (Tactical Sleeve — paused, see tactical-book.md) | — | — | $28.51 | — | Watch |
 
-*(Data as of 2026-06-15 close.)*
+*(Data as of 2026-06-17 close. BUD position closed.)*
 
 ## Risks
 
@@ -46,3 +46,4 @@ For this to work: the World Cup needs to translate into measurable revenue/volum
 
 - 2026-06-01: BUD position opened on Core Book (3 shares @ $80.39).
 - 2026-06-14: Thesis formalized in repo with research pass. DKNG added as a Tactical Sleeve candidate given the live World Cup catalyst.
+- 2026-06-17: BUD position closed (3 sh @ $81.105, +$2.15 / +0.89% realized). User exited ahead of the afternoon market selloff. DKNG still on watchlist — World Cup is live, tactical sleeve options situation still unresolved. Thesis status: no held positions; DKNG remains a watch candidate.

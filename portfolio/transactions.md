@@ -24,6 +24,12 @@ Append-only. Newest entries at the bottom. Seeded from Robinhood order history (
 | 2026-05-29 | WMT | Buy | 4.000000 | $115.12 | Unassigned |
 | 2026-06-01 | BUD | Buy | 3.000000 | $80.39 | Opens Consumer Events 2026 thesis |
 | 2026-06-03 | GLW | Buy (DRIP) | 0.002839 | $197.2298 | Dividend reinvestment |
+| 2026-06-17 | ENTG | Sell | 3.000000 | $163.435 | AI Infra Buildout, position fully closed; realized gain +$46.58 (+10.5%) |
+| 2026-06-17 | ICHR | Sell | 2.000000 | $91.540 | AI Infra Buildout, position fully closed; realized gain +$43.08 (+30.8%) |
+| 2026-06-17 | WMT | Sell | 4.000000 | $118.015 | Unassigned, position fully closed; realized gain +$11.58 (+2.5%) |
+| 2026-06-17 | LIN | Sell | 1.000000 | $517.385 | Unassigned, position fully closed; realized gain +$3.85 net of $0.02 fee (+0.75%) |
+| 2026-06-17 | BUD | Sell | 3.000000 | $81.105 | Consumer Events 2026, position fully closed; realized gain +$2.15 (+0.89%) |
+| 2026-06-17 | NVDA | Buy | 9.000000 | $206.385 | New position; rotated from above sells; tag TBD (AI Infra — direct chip play) |
 
 ## Tactical Sleeve (••••3551)
 

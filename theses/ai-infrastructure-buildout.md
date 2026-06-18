@@ -22,11 +22,11 @@ For this to keep working: fab capex and hyperscaler datacenter spend need to kee
 
 | Ticker | Role in Thesis | Status | Shares (Core Book) | Avg Cost | Current | P&L % | Rating |
 |---|---|---|---|---|---|---|---|
-| [ENTG](../tickers/ENTG.md) | Semiconductor materials/contamination control — direct fab-capex play, capex cycle largely behind it (operating leverage ahead) | Held | 3.000000 | $147.91 | $151.61 | +2.5% | Hold |
-| [ICHR](../tickers/ICHR.md) | Fluid-delivery subsystems for WFE OEMs (Lam, Applied) — pure-play leverage to the wafer-fab-equipment upcycle | Held | 2.000000 | $70.00 | $85.77 | +22.5% | **Trim** |
-| [POWL](../tickers/POWL.md) | Electrical switchgear/distribution for datacenters & utilities — direct beneficiary of datacenter electrification | Held | 3.000000 | $313.80 | $292.70 | -6.7% | Hold |
-| [GLW](../tickers/GLW.md) | Optical fiber & connectivity for AI datacenter networking | Held | 2.002839 | $204.79 | $177.42 | -13.4% | Hold |
-| [CEG](../tickers/CEG.md) | Nuclear baseload power, increasingly contracted directly to AI datacenter operators | Held | 1.001570 | $295.40 | $268.00 | -9.3% | Accumulate |
+| [ENTG](../tickers/ENTG.md) | Semiconductor materials/contamination control — direct fab-capex play, capex cycle largely behind it (operating leverage ahead) | **Sold 2026-06-17** | — | $147.91 | $163.44 (fill) | +10.5% realized | — |
+| [ICHR](../tickers/ICHR.md) | Fluid-delivery subsystems for WFE OEMs (Lam, Applied) — pure-play leverage to the wafer-fab-equipment upcycle | **Sold 2026-06-17** | — | $70.00 | $91.54 (fill) | +30.8% realized | — |
+| [POWL](../tickers/POWL.md) | Electrical switchgear/distribution for datacenters & utilities — direct beneficiary of datacenter electrification | Held | 3.000000 | $313.80 | $294.03 | -6.3% | Hold |
+| [GLW](../tickers/GLW.md) | Optical fiber & connectivity for AI datacenter networking | Held | 2.002839 | $204.79 | $175.40 | -14.3% | Hold |
+| [CEG](../tickers/CEG.md) | Nuclear baseload power, increasingly contracted directly to AI datacenter operators | Held | 1.001570 | $295.40 | $267.17 | -9.6% | Accumulate |
 
 *(Data as of 2026-06-16 close.)*
 
@@ -55,3 +55,4 @@ For this to keep working: fab capex and hyperscaler datacenter spend need to kee
 - 2026-06-03: GLW DRIP +0.002839 sh.
 - 2026-06-14: Thesis formalized in repo with full research pass; all five tickers rated, CEG moved to Accumulate given fundamentals/price disconnect (flagged for re-check).
 - 2026-06-17: ICHR upgraded to **Trim** (from Hold/consider trim). Rationale: +22.5% gain from $70.00 cost, CEO sold 13,705 sh at $70.19 under a 10b5-1 plan (June 4), Director sold 20,000 sh June 2 — both at or near our entry before the run. ICHR has negative margins and negative FCF; sector is up 311% YTD and becoming crowded. Recommendation: sell 1 of 2 shares at market to bank ~$15.77 gain and leave 1 share running. ENTG giveback noted (-6.9% on June 16 from the June 15 peak of $162.89); recovering pre-market. GLW -5.6% from last file but Amazon multibillion-dollar optical fiber deal (June 8) validates the thesis. POWL -3.6%, CEO sold at $272.64 on June 11, margin compression in Q2 FY2026; $0.09/share dividend paid today.
+- 2026-06-17 (afternoon): User sold **ENTG in full** (3 sh @ $163.44, +10.5% realized) and **ICHR in full** (2 sh @ $91.54, +30.8% realized) before the afternoon market pullback. Combined realized gain: +$89.66. Proceeds rotated into NVDA (9 sh @ $206.39). ENTG and ICHR positions now closed. Remaining thesis positions: POWL, GLW, CEG.
